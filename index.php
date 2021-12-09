@@ -53,7 +53,7 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-4">
+            <div class="col-6">
                 <div class="card" style="width: 18rem;">
                     <img src="https://i.pinimg.com/736x/28/14/08/28140844e3bac703dcdb23b731c0793d.jpg"
                         class="card-img-top" alt="...">
@@ -62,7 +62,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-4">
+            <div class="col-6">
                 <div class="card" style="width: 18rem;">
                     <img src="https://wallpapers.com/images/featured/killua-raxgvyny51ylo7wl.jpg"
                         class="card-img-top" alt="...">
